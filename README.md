@@ -1,4 +1,4 @@
 skillr
 ======
 
-A tool for setting skills set for yourself and keeping track to reach your goal.
+A tool for setting skill-set for yourself and keeping track to reach your goal.
